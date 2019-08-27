@@ -7,11 +7,11 @@ public class sample{
 		System.out.println(ss);
 
 		if (ss == "asd") {
-			System.out.println("uto");
+			System.out.println("uto uto");
 			
 		}
 		else{
-			System.out.println("nc1");
+			System.out.println("nc3");
 		}
 		
 
